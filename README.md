@@ -1,9 +1,5 @@
 # About me 👋
 
-**TharunBR/TharunBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: Learning how to contribute to open-source projects using Python
 - 🌱 I’m currently learning: Git, GitHub,LLM, and improving my Python skills
 - 👯 I’m looking to collaborate on: Beginner-friendly Python projects and open-source contributions
